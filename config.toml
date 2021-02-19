@@ -1,6 +1,6 @@
-baseURL = "https://activity102.vercel.app"
+baseURL = "https://kidsfuncoloringsheets.netlify.app"
 languageCode = "en-us"
-title = "Kids Fun Activity"
+title = "Healthy Breakfast Recipes"
 theme = "z"
 
 [taxonomies]
@@ -11,9 +11,9 @@ theme = "z"
   post = ":slug"
 
 [params]
-  description = "Activities Educational & Fun Learning for Kids"
-  topdescription = "Activities Educational & Fun Learning for Kids"
-  toptitle = "Coloring Pages Kids FUN"
+  description = "Keep it FRESHS & easy with these Healthy Breakfast Recipes"
+  topdescription = "Keep it FRESH & Easy with these Healthy Breakfast Recipes"
+  toptitle = "All Best Recipes"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://activity102.vercel.app"
+    homepage = "https://kidsfuncoloringsheets.netlify.app"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
